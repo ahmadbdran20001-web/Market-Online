@@ -1,4 +1,4 @@
-# market_sales_data_analysis_
+# market_Online_data_analysis
 data analysis project using powerbi to explore market online 
 ## Data source :
 from kaggel 
@@ -24,5 +24,5 @@ the data contains 541911 rows and 8 columns
 
                                                          Dashboard
 
-<img
+<img src="Dashboard.png" width="900")
                       
