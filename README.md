@@ -11,15 +11,15 @@ What factors influence sales performance and customer purchasing behavior in the
 ## Explore data :
 the data contains 541911 rows and 8 columns 
 ## Clean data :
-1-unimportant columns were removed from the analysis 
+1- unimportant columns were removed from the analysis 
 
-2-removed errors 
+2- removed errors 
 
-3-removed duplicate data 
+3- removed duplicate data 
 
-4-each column was converted to a number , data or text format depending on the column and its contents
+4- each column was converted to a number , data or text format depending on the column and its contents
 
-5-prepared the dataset for analysis 
+5- prepared the dataset for analysis 
 ## data analysis :
 
                                                          Dashboard
@@ -49,3 +49,18 @@ We notice that revenue increases in the last five months of the year
 <img src="chart6.png" width="500">
 
 We notice a clear difference in purchase quantities in the United States compared to other countries.
+
+## key insight :
+1- Is it normal for sales to be lower after 15:00?
+
+2- Low-priced products sell significantly more than others, so their availability should always be ensured
+
+3- Is it possible to increase sales of high-priced products, or is it due to limited purchasing power or weak marketing
+
+4- The top 5 best-selling products should always be consistently available
+
+5- Attention should be paid to retaining the top 5 customers listed above
+
+6- Is it normal for sales to be high only in the last five months of the year?
+
+7- Is it reasonable that 88% of sales come from the United States, or is it due to weaker services in other countries?
