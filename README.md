@@ -24,5 +24,28 @@ the data contains 541911 rows and 8 columns
 
                                                          Dashboard
 
-<img src="Dashboard.png" width="900")
+<img src="Dashboard.png" width="900">
+
+<img src="chart1.png" width="500">
+
+We notice that orders are lower in the morning than in the evening
+
+<img src="chart2.png" width="500">
+
+We notice that quantities ordered at low prices are significantly higher than others.
                       
+<img src="chart3.png" width="500">
+
+These are the top 5 most requested products
+
+<img src="chart4.png" width="500">
+
+These are the top 5 customers in the market.
+
+<img src="chart5.png" width="500">
+
+We notice that revenue increases in the last five months of the year
+
+<img src="chart6.png" width="500">
+
+We notice a clear difference in purchase quantities in the United States compared to other countries.
